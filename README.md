@@ -4,11 +4,6 @@
 
 This project tackles the challenge of detecting duplicate questions on Quora, organized by Kaggle. The primary goal is to identify whether two questions have the same meaning, thereby helping to reduce redundant content on the platform. By employing a combination of natural language processing (NLP) techniques and machine learning algorithms, the model achieves an accuracy of approximately 80%.
 
-## Demo
-
-You can try out the live demo of the project [here](https://duplicate-question-pair-project.streamlit.app/).
-
-
 
 ## Table of Contents
 
